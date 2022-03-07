@@ -1,3 +1,4 @@
+- Homepage
 - DWI Blog
 - DWI Organisation
 	- Darstellung Struktur
@@ -21,5 +22,10 @@
 			- [[Datenanreicherung]]
 			- [[Datenaggregation]]
 		- [[Metadaten publizieren]]
+- DWI Produkte
+	- [[lobid]]
+	- [[NWBib]]
+	- [[Metafacture]]
+	- [[SkoHub Vocabs]]
 - [[Ansprechpartner]]
 - [[Partner]]

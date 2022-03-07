@@ -1,0 +1,3 @@
+- [Metafacture](https://metafacture.org) is ein Toolkit für die Verarbeitung von (semi-)strukturierten Daten mit dem Fokus auf bibliothekarische Metadaten. Es bietet ein vielseitiges Set an Werkzeugen für das Auslesen, Schreiben und Transformieren von Daten. Metafacture kann als alleinstehende Applikation oder als Java Library in anderen Applikationen genutzt werden. Der Name Metafacture ist eine Zusammensetzung der Wörter Metadaten und manufacture (eng.: herstellen).
+  
+  Kontakt: ((62220bba-853e-4df4-9693-37d8a636c3b5))
