@@ -1,8 +1,8 @@
-- Expertise in:
+- Ob für Entwicklung einer Discovery-Anwenung oder die Erstellung von Standards innerhalb einer Community – die Spezifikation von Metadaten stellt häufig den Kern für Entwicklung und Nutzung digitaler bibliothekarischer Angebote dar. Das hbz besitzt Expertise bei den damit verbundenen Aufgaben:
   * Datenmodellierung
   * Dokumentation
   * Validierung
-- Werkzeuge:
+- Folgende Werkzeuge nutzen wir zur Umsetzung der Aufgaben:
 	- [[SkoHub Vocabs]]
 	- [[JSON Schema]]
 	- [[ReSpec]]

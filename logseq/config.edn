@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["Contents"]
+ :favorites []
  :feature/enable-journals? false
  :publishing/all-pages-public? true
  :default-home {:page "Contents"}

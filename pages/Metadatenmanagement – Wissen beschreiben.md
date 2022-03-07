@@ -1,7 +1,7 @@
 - ### Automatisierte Verarbeitung und webbasierte Publikation von Metadaten
-  Das hbz blickt auf langjährige Erfahrung zurück in der automatisierten Verarbeitung von Metadaten und der Publikation leicht nutzbarer Metadaten im Web. Es hat sich an verschiedenen Initiativen zur community-gestützten Entwicklung geteilter Metadatenstandards, deren Spezifikation und Dokumentation beteiligt.
+  Das hbz blickt auf langjährige Erfahrung zurück in der automatisierten Verarbeitung von Metadaten und der Publikation leicht nutzbarer Metadaten im Web. Es hat sich darüber hinaus an verschiedenen Initiativen zur community-gestützten Entwicklung web-basierter Metadatenstandards, deren Spezifikation und Dokumentation beteiligt.
   
-  Unser Angebot gliedert sich demgemäß in drei Aufgabenbereiche:
+  Unser Angebot gliedert sich demgemäß in drei Anwendungsbereiche:
   * [[Metadaten spezifizieren]]
   * [[Metadaten aufbereiten]]
   * [[Metadaten publizieren]]
