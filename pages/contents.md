@@ -17,7 +17,7 @@
 	- [[Metadatenmanagement – Wissen beschreiben]]
 		- [[Metadaten spezifizieren]]
 		- [[Metadaten aufbereiten]]
-			- [[Datentransformation]]
+			- [[Datenmigration]]
 			- [[Datenabgleich]]/Reconciliation
 			- [[Datenanreicherung]]
 			- [[Datenaggregation]]

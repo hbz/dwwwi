@@ -1,0 +1,6 @@
+- Bei der Modellierung von Daten für das Web setzen wir selbstverständlich auf offene Webstandards und Transparenz. Die Daten werden – dem Web als Publikationsplattform entsprechend – als Graph modelliert.  In bestehenden Projekten bauen wir z.B. auf folgenden Standards auf:
+	- **Linked Open Usable Data & JSON-LD**: für jede:n Webentwickler:in leicht als JSON nutzbar, aber gleichzeitig eine Form des ResourceDescription Framework (RDF) und damit Linked Data
+	- **schema.org, SKOS**: Für eher generische Daten nutzen wir das im Web weit verbreitete Metatenschema schema.org, kontrollierte Vokabulare werden Linked-Open-Data-kompatibel als SKOS publiziert
+	- **Spezifischere Vokabulare wo nötig**: Für granularere Datenmodelle greifen wir auf fachspezifische Vokabulare wie Bibframe zurück.
+- ### Partner
+	- ((6222106c-8822-452d-b3e3-d1404af48bad)): Im Rahmen von KIM hat sich das hbz bereits mehrfach an der Entwicklung und Dokumentation gemeinsamer Metadatenpraktiken im Web beteiligt: [Empfehlungen zur RDF-Repräsentation bibliografischer Daten](https://wiki.dnb.de/x/cYMOB), [[Allgemeines Metadatenprofil für Bildungsressourcen (AMB)]]
