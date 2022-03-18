@@ -1,5 +1,6 @@
 - Service-Titel
   tag:: service
+  template:: service
 	- ### Kurzbeschreibung
 	- ### Umfang
 	- ### Ausführliche Beschreibung
@@ -8,5 +9,3 @@
 	- ### Assoziierte Services und Projekte
 	- ### Partner
 	-
-- ### Werkzeuge
-  * [[JSON Schema]]

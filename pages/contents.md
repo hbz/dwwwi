@@ -16,16 +16,27 @@
 		- OA Nachweis
 	- [[Metadatenmanagement – Wissen beschreiben]]
 		- [[Metadaten spezifizieren]]
+			- [[Datenmodellierung]]
+			- [[Dokumentation]]
+			- [[Validierung]]
 		- [[Metadaten aufbereiten]]
 			- [[Datenmigration]]
 			- [[Datenabgleich]]/Reconciliation
 			- [[Datenanreicherung]]
 			- [[Datenaggregation]]
 		- [[Metadaten publizieren]]
+			- [[Kontrollierte Vokabulare im Web]]
+			- LOUD & FAIR Web APIs
 - DWI Produkte
 	- [[lobid]]
 	- [[NWBib]]
 	- [[Metafacture]]
 	- [[SkoHub Vocabs]]
+- DWI Projekte
+	- Landesinitiative Langzeitverfügbarkeit LZV.nrw
+	- Landesinitiative Open Access oa.nrw
+	- Metadatenmanagement.nrw
+	- ORCA.nrw
+	- NOAH
 - [[Ansprechpartner]]
 - [[Partner]]
