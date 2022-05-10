@@ -26,7 +26,7 @@
 			- [[Datenaggregation]]
 		- [[Metadaten publizieren]]
 			- [[Kontrollierte Vokabulare im Web]]
-			- LOUD & FAIR Web APIs
+			- [[LOUD & FAIR Web APIs]]
 - DWI Produkte
 	- [[lobid]]
 	- [[NWBib]]

@@ -2,4 +2,3 @@
   * [[Datenmodellierung]]
   * [[Dokumentation]]
   * [[Validierung]]
-- Kontakt: ((62220bba-853e-4df4-9693-37d8a636c3b5))
