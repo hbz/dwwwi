@@ -1,7 +1,7 @@
 - ## Datenmodellierung
   tag:: service
 	- ### Kurzbeschreibung
-	  Bei der Modellierung von Daten für das Web lieget der Fokus auf **Nachnutzbarkeit** und **Interoperabilität**.
+	  Bei der Modellierung von Daten für das Web liegt der Fokus auf **Nachnutzbarkeit** und **Interoperabilität**.
 	- ### Umfang
 	  Wir bieten Beratung bei Fragen zu Methoden, Techniken, Standards und Tools für die Datenmodellierung.
 	- ### Ausführliche Beschreibung
@@ -9,8 +9,8 @@
 	  
 	  Die Daten werden – dem Web als Publikationsplattform entsprechend – als Graph modelliert.  In bestehenden Projekten bauen wir z.B. auf folgenden Best Practices auf:
 		- **Linked Open Usable Data & JSON-LD**: damit die Daten für jede:n Webentwickler:in leicht  nutzbar sind und gleichzeitig alle Vorteile von Linked Data
-		- **schema.org, Simple Knowledge Organization System (SKOS)**: Für eher generische Daten nutzen wir das im Web weit verbreitete Metatenschema schema.org, kontrollierte Vokabulare werden Linked-Open-Data-kompatibel als SKOS publiziert
-		- **Spezifischere Vokabulare wo nötig**: Für granularere Datenmodelle greifen wir auf fachspezifische Vokabulare wie Bibframe zurück.
+		- **schema.org, Simple Knowledge Organization System (SKOS)**: Für viele Projekte ist die Nutzung des im Web weit verbreiteten Metatenschemas schema.org ausreichend. Kontrollierte Vokabulare werden Linked-Open-Data-kompatibel als SKOS publiziert.
+		- **Spezifischere Vokabulare wo nötig**: Für granularere Datenmodelle greifen wir auf fachspezifische Vokabulare wie Bibframe zurück odetr entwickeln anwendungsspezifische Erweiterungen.
 	- ### Referenzen
 	  * [[Allgemeines Metadatenprofil für Bildungsressourcen (AMB)]] und die darauf basierenden Datenmodelle von [[OERSI]] und [[ORCA.nw]].
 	- ### Fachliche Ansprechperson
